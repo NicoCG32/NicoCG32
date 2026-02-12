@@ -46,14 +46,17 @@ Hi! 🎓 I'm a third-year Civil Engineering student specializing in Computer Sci
 
 <p align="center">
   <a href="https://github.com/NicoCG32/HexaTour">
-    <img src="imagenes/LogoHexaTour.png" alt="HexaTour" width="150" style="border-radius: 50%;">
+    <img src="imagenes/LogoHexaTour.png" alt="HexaTour" width="150" >
   </a>
-  
-  
-  
+  <!--
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NicoCG32/EstacionMeteo">
-    <img src="imagenes/LogoEstMeteo.png" alt="Estación Meteorológica" width="275" style="border-radius: 5%;">
+  <a href="https://github.com/NicoCG32/Edukai">
+    <img src="imagenes/LogoEduKai.png" alt="Edukai" width="120" style="border-radius: 50%;">
+  </a>
+  -->
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/NicoCG32/Estacion-Meteorologica">
+    <img src="imagenes/LogoEstMeteo.png" alt="Estación Meteorológica" width="360" >
   </a>
 </p>
 
@@ -85,5 +88,3 @@ Hi! 🎓 I'm a third-year Civil Engineering student specializing in Computer Sci
   <br>
   <img src="https://profile-counter.glitch.me/NicoCG32/count.svg" alt="Visitor Count" />
 </p>
-
-
