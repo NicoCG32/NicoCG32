@@ -4,11 +4,31 @@
 </h1>
 
 <p align="center">
-  <span style="display: block; font-size: 1.25em; font-weight: bold; margin-bottom: 5px;">「真の美とは、人を攻撃し、圧倒し、奪い、そして最終的に破壊するものである。」</span>
-  <span style="display: block; font-size: 0.9em; color: #666; margin-bottom: 5px;"><i>"Shin no bi to wa, hito o kōgeki shi, attō shi, ubai, soshite saishū-teki ni hakai suru mono de aru."</i></span>
-  <span style="display: block; margin-bottom: 5px;"><i>"True beauty is something that attacks, overpowers, robs, and finally destroys."</i></span>
-  <span style="display: block; margin-bottom: 10px;"><i>"La verdadera belleza es algo que ataca, domina, roba y finalmente destruye."</i></span>
-  <span style="font-weight: bold;">- Yukio Mishima</span>
+  <span style="display: block; font-size: 1.25em; font-weight: bold; margin-bottom: 5px;">
+  真の美とは、人を攻撃し、圧倒し、奪い、そして最終的に破壊するものである。」
+  </span>
+  <span style="display: block; font-size: 0.9em; color: #666; margin-bottom: 5px;">
+    <i>
+    "Shin no bi to wa, hito o kōgeki shi, attō shi, ubai, soshite saishū-teki ni hakai suru mono de aru."<br>
+    </i>
+  </span>
+</p>
+<p align="center">
+  <span style="display: block; margin-bottom: 5px;">
+    <i>
+      "True beauty is something that attacks, overpowers, robs, and finally destroys."<br>
+    </i>
+  </span>
+  <span style="display: block; margin-bottom: 10px;">
+    <i>
+    "La verdadera belleza es algo que ataca, domina, roba y finalmente destruye."<br>
+    </i>
+  </span>
+</p>
+<p align="right">
+  <span style="font-weight: bold;">
+    - Yukio Mishima
+  </span>
 </p>
 
 <img align="right" width="330px" alt="Vinyl" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBqOG40aHBwZ2kxODF2OGoxdDMxemxsOTg4cG5qdjNvcGJ5N3V1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nMgoPDrnFbakhd7RxN/giphy.gif" />
