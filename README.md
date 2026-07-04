@@ -135,7 +135,7 @@ Hi! I'm an Informatics Engineering student and university teaching assistant int
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/NicoCG32/Taller2PSP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoCG32&repo=Taller2PSP&theme=tokyonight&hide_border=false" alt="Taller2PSP repository card">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Taller2PSP&theme=tokyonight&hide_border=false" alt="Taller2PSP repository card">
       </a>
       <h3>Taller2PSP</h3>
       <p>
@@ -182,17 +182,20 @@ Hi! I'm an Informatics Engineering student and university teaching assistant int
 
 ## Academic and Teaching Repositories
 
-These repositories are maintained as academic support material for classmates and students. They include exercises, solved problems, teaching notes and course-oriented examples.
+These repositories are maintained as academic support material for classmates and students. They include exercises, solved problems, teaching notes, course-oriented examples and explanations written with a practical student perspective.
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/NicoCG32/Programacion-UCN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoCG32&repo=Programacion-UCN&theme=tokyonight&hide_border=false" alt="Programacion-UCN repository card">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Programacion-UCN&theme=tokyonight&hide_border=false" alt="Programacion-UCN repository card">
       </a>
       <h3>Programación</h3>
       <p>
-        Structured programming and basic logic material: exercises, problem statements and solved programming practice.
+        <img src="https://img.shields.io/badge/Nivel%200-Programaci%C3%B3n%20estructurada-808080?style=for-the-badge" alt="Nivel 0: Programación estructurada">
+      </p>
+      <p>
+        Introductory programming material in Python, focused on structured programming, conditionals, loops, files, functions, lists and matrices.
       </p>
       <p>
         <a href="https://github.com/NicoCG32/Programacion-UCN">
@@ -201,15 +204,18 @@ These repositories are maintained as academic support material for classmates an
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/NicoCG32/Programacion-Avanzada-UCN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoCG32&repo=Programacion-Avanzada-UCN&theme=tokyonight&hide_border=false" alt="Programacion-Avanzada-UCN repository card">
+      <a href="https://github.com/NicoCG32/Programacion-Orientada-a-Objetos-UCN">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Programacion-Orientada-a-Objetos-UCN&theme=tokyonight&hide_border=false" alt="Programacion-Orientada-a-Objetos-UCN repository card">
       </a>
-      <h3>Programación Avanzada</h3>
+      <h3>Programación Orientada a Objetos</h3>
       <p>
-        Support material for Object-Oriented Programming, Advanced Programming Techniques and Methodologies, and Advanced Programming.
+        <img src="https://img.shields.io/badge/Nivel%201-Modelado%20POO-1E90FF?style=for-the-badge" alt="Nivel 1: Modelado POO">
       </p>
       <p>
-        <a href="https://github.com/NicoCG32/Programacion-Avanzada-UCN">
+        Java and Eclipse material for object-oriented modeling, classes, objects, relationships, interfaces, Swing, layered design and introductory patterns.
+      </p>
+      <p>
+        <a href="https://github.com/NicoCG32/Programacion-Orientada-a-Objetos-UCN">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
         </a>
       </p>
@@ -217,29 +223,54 @@ These repositories are maintained as academic support material for classmates an
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/NicoCG32/Estructura-de-Datos-2026-I-UCN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoCG32&repo=Estructura-de-Datos-2026-I-UCN&theme=tokyonight&hide_border=false" alt="Estructura-de-Datos-2026-I-UCN repository card">
+      <a href="https://github.com/NicoCG32/Tecnicas-y-Metodologias-de-Programacion-Avanzada-UCN">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Tecnicas-y-Metodologias-de-Programacion-Avanzada-UCN&theme=tokyonight&hide_border=false" alt="Tecnicas-y-Metodologias-de-Programacion-Avanzada-UCN repository card">
       </a>
-      <h3>Estructura de Datos</h3>
+      <h3>Técnicas y Metodologías de Programación Avanzada</h3>
       <p>
-        Teaching assistant material with data structure problems, markdown statements and coded solutions.
+        <img src="https://img.shields.io/badge/Nivel%201-T%C3%A9cnicas%20algor%C3%ADtmicas-1E90FF?style=for-the-badge" alt="Nivel 1: Técnicas algorítmicas">
       </p>
       <p>
-        <a href="https://github.com/NicoCG32/Estructura-de-Datos-2026-I-UCN">
+        Java-oriented and pseudocode-friendly material for recursion, divide and conquer, trees, backtracking, algorithmic reasoning and concurrency.
+      </p>
+      <p>
+        <a href="https://github.com/NicoCG32/Tecnicas-y-Metodologias-de-Programacion-Avanzada-UCN">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
         </a>
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/NicoCG32/Patrones-de-Prog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoCG32&repo=Patrones-de-Prog&theme=tokyonight&hide_border=false" alt="Patrones-de-Prog repository card">
+      <a href="https://github.com/NicoCG32/Estructura-de-Datos-UCN">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Estructura-de-Datos-UCN&theme=tokyonight&hide_border=false" alt="Estructura-de-Datos-UCN repository card">
+      </a>
+      <h3>Estructura de Datos</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Nivel%202-Estructuras%20de%20datos-2E8B57?style=for-the-badge" alt="Nivel 2: Estructuras de datos">
+      </p>
+      <p>
+        C++ teaching assistant material with linked lists, stacks, queues, trees, AVL, heaps, graphs, compendiums, exercises and solved practice.
+      </p>
+      <p>
+        <a href="https://github.com/NicoCG32/Estructura-de-Datos-UCN">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/NicoCG32/Patrones-de-Software-y-Programacion-UCN">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Patrones-de-Software-y-Programacion-UCN&theme=tokyonight&hide_border=false" alt="Patrones-de-Software-y-Programacion-UCN repository card">
       </a>
       <h3>Patrones de Software y Programación</h3>
       <p>
-        Software patterns and programming material focused on design, architecture, maintainability and Java-based practice.
+        <img src="https://img.shields.io/badge/Nivel%203-Arquitectura%20y%20patrones-800080?style=for-the-badge" alt="Nivel 3: Arquitectura y patrones">
       </p>
       <p>
-        <a href="https://github.com/NicoCG32/Patrones-de-Prog">
+        Java and IntelliJ material for GoF patterns, architectural patterns, testing, JUnit, Mockito, ArchUnit, Vert.x and maintainable design.
+      </p>
+      <p>
+        <a href="https://github.com/NicoCG32/Patrones-de-Software-y-Programacion-UCN">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
         </a>
       </p>
@@ -250,7 +281,7 @@ These repositories are maintained as academic support material for classmates an
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoCG32&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=NicoCG32&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats">
 </p>
 
 <p align="center">
@@ -258,7 +289,7 @@ These repositories are maintained as academic support material for classmates an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCG32&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top languages">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NicoCG32&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top languages">
 </p>
 
 ---
