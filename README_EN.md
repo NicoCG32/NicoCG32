@@ -50,9 +50,9 @@
 
 ## About me
 
-Hi! I'm an Informatics Engineering student and university teaching assistant interested in software development, programming, system architecture and applied technology projects. I enjoy building academic and personal projects that combine programming, documentation, engineering criteria and technical problem-solving.
+Hi! I'm an Informatics Engineering student and former university teaching assistant interested in software development, programming, system architecture and applied technology projects. I enjoy building academic and personal projects that combine programming, documentation, engineering criteria and technical problem-solving.
 
-I am currently a teaching assistant for **Data Structures**. My previous teaching experience also includes **Programming**, **Object-Oriented Programming** and **Statistics**, supporting students through exercises, technical explanations, study material and programming practice.
+I was a teaching assistant for **Data Structures** for one academic term. My teaching experience also includes **Programming**, **Object-Oriented Programming** and **Statistics**, supporting students through exercises, technical explanations, study material and programming practice.
 
 - 🌱 Currently learning:
   - Web development.
@@ -74,7 +74,7 @@ I am currently a teaching assistant for **Data Structures**. My previous teachin
 | Programming | Two regular academic terms and one summer term | Previous |
 | Object-Oriented Programming | One summer term | Previous |
 | Statistics | One regular academic term | Previous |
-| Data Structures | One regular academic term | Current |
+| Data Structures | One regular academic term | Previous |
 
 My academic repositories are organized as a progressive learning path. Their **level labels are intentional** and distinguish the conceptual depth of each course, from structured programming to software architecture and patterns.
 

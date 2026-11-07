@@ -50,9 +50,9 @@
 
 ## Sobre mim
 
-Olá! Sou estudante de Engenharia Informática e monitor universitário, interessado em desenvolvimento de software, programação, arquitetura de sistemas e projetos tecnológicos aplicados. Gosto de construir projetos acadêmicos e pessoais que combinam programação, documentação, critérios de engenharia e resolução técnica de problemas.
+Olá! Sou estudante de Engenharia Informática e ex-monitor universitário, interessado em desenvolvimento de software, programação, arquitetura de sistemas e projetos tecnológicos aplicados. Gosto de construir projetos acadêmicos e pessoais que combinam programação, documentação, critérios de engenharia e resolução técnica de problemas.
 
-Atualmente sou monitor de **Estruturas de Dados**. Minha experiência docente anterior também inclui **Programação**, **Programação Orientada a Objetos** e **Estatística**, apoiando estudantes por meio de exercícios, explicações técnicas, material de estudo e prática de programação.
+Fui monitor de **Estruturas de Dados** durante um período acadêmico. Minha experiência docente também inclui **Programação**, **Programação Orientada a Objetos** e **Estatística**, apoiando estudantes por meio de exercícios, explicações técnicas, material de estudo e prática de programação.
 
 - 🌱 Atualmente aprendendo:
   - Desenvolvimento web.
@@ -74,7 +74,7 @@ Atualmente sou monitor de **Estruturas de Dados**. Minha experiência docente an
 | Programação | Dois períodos acadêmicos regulares e um período de verão | Anterior |
 | Programação Orientada a Objetos | Um período de verão | Anterior |
 | Estatística | Um período acadêmico regular | Anterior |
-| Estruturas de Dados | Um período acadêmico regular | Atual |
+| Estruturas de Dados | Um período acadêmico regular | Anterior |
 
 Meus repositórios acadêmicos estão organizados como uma trajetória progressiva de aprendizagem. Seus **rótulos de nível são intencionais** e distinguem a profundidade conceitual de cada disciplina, desde a programação estruturada até a arquitetura e os padrões de software.
 

@@ -50,9 +50,9 @@
 
 ## Sobre mí
 
-¡Hola! Soy estudiante de Ingeniería Informática y ayudante universitario, interesado en el desarrollo de software, la programación, la arquitectura de sistemas y los proyectos tecnológicos aplicados. Disfruto construir proyectos académicos y personales que combinan programación, documentación, criterio de ingeniería y resolución técnica de problemas.
+¡Hola! Soy estudiante de Ingeniería Informática y he sido ayudante universitario, interesado en el desarrollo de software, la programación, la arquitectura de sistemas y los proyectos tecnológicos aplicados. Disfruto construir proyectos académicos y personales que combinan programación, documentación, criterio de ingeniería y resolución técnica de problemas.
 
-Actualmente soy ayudante de **Estructura de Datos**. Mi experiencia docente previa también incluye **Programación**, **Programación Orientada a Objetos** y **Estadística**, apoyando a estudiantes mediante ejercicios, explicaciones técnicas, material de estudio y práctica de programación.
+Fui ayudante de **Estructura de Datos** durante un periodo académico. Mi experiencia docente también incluye **Programación**, **Programación Orientada a Objetos** y **Estadística**, apoyando a estudiantes mediante ejercicios, explicaciones técnicas, material de estudio y práctica de programación.
 
 - 🌱 Actualmente aprendiendo:
   - Desarrollo web.
@@ -74,7 +74,7 @@ Actualmente soy ayudante de **Estructura de Datos**. Mi experiencia docente prev
 | Programación | Dos periodos académicos regulares y un periodo de verano | Anterior |
 | Programación Orientada a Objetos | Un periodo de verano | Anterior |
 | Estadística | Un periodo académico regular | Anterior |
-| Estructura de Datos | Un periodo académico regular | Actual |
+| Estructura de Datos | Un periodo académico regular | Anterior |
 
 Mis repositorios académicos están organizados como una trayectoria progresiva de aprendizaje. Sus **etiquetas de nivel son intencionales** y distinguen la profundidad conceptual de cada asignatura, desde la programación estructurada hasta la arquitectura y los patrones de software.
 
