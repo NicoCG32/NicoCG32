@@ -1,333 +1,199 @@
-<h1 align="center">
-  Hi, I'm NicoPablo 👋 <br>
-</h1>
+<div align="center">
 
-<p align="center">
-  <em>
-    <strong>
-      Informatics Engineering student at Universidad Católica del Norte
-    </strong><br>
-    Software Development · Software Architecture · Embedded Systems · University Teaching Assistance
-  </em>
+<h1>Hi, I'm NicoPablo 👋</h1>
+
+<p>
+  <strong>Informatics Engineering student · Software developer</strong><br>
+  <sub>Universidad Católica del Norte · Chile</sub>
 </p>
 
-<p align="center">
+<p>
   <em>「真の美とは、人を攻撃し、圧倒し、奪い、そして最終的に破壊するものである。」</em><br>
   <em>“True beauty is something that attacks, overpowers, robs, and finally destroys.”</em><br>
   <sub>— Yukio Mishima</sub>
 </p>
 
-<p align="center">
-  <strong>Idiomas:</strong>
-  <a href="README.md">Español</a> ·
-  <a href="README_EN.md">Inglés</a> ·
-  <a href="README_PO.md">Portugués</a>
+<p><strong>Languages:</strong> <a href="README.md">Español</a> · <a href="README_EN.md">English</a> · <a href="README_PO.md">Português</a></p>
+
+<p>
+  <a href="mailto:pguzmanns.04@gmail.com"><img src="https://img.shields.io/badge/Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Contact"></a>
+  <a href="https://www.linkedin.com/in/pabloguzvar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/nicocg32/"><img src="https://img.shields.io/badge/LeetCode-956A1D?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
-<p align="center">
-  <strong>Contact and social media</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:pguzmanns.04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/pabloguzvar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:pablo.guzman@alumnos.ucn.cl">
-    <img src="https://img.shields.io/badge/Academic%20email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic email">
-  </a>
-  <a href="https://leetcode.com/u/nicocg32/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://www.instagram.com/nico.s_mfcomeback/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
-<img align="right" width="250" alt="Vinyl record animation" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBqOG40aHBwZ2kxODF2OGoxdDMxemxsOTg4cG5qdjNvcGJ5N3V1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nMgoPDrnFbakhd7RxN/giphy.gif">
+</div>
 
 ## About me
 
-Hi! I'm an Informatics Engineering student and university teaching assistant interested in software development, programming, system architecture and applied technology projects. I enjoy building academic and personal projects that combine programming, documentation, engineering criteria and technical problem-solving.
+I'm an Informatics Engineering student at **Universidad Católica del Norte (Chile)**. I enjoy building useful software, understanding a problem before tackling it, and designing systems that can evolve without losing clarity.
 
-I am currently a teaching assistant for **Data Structures**. My previous teaching experience also includes **Programming**, **Object-Oriented Programming** and **Statistics**, supporting students through exercises, technical explanations, study material and programming practice.
+I've worked on web applications, applied AI, video games, and embedded systems, both independently and in interdisciplinary teams. My focus is on clear business rules, maintainable structures, documented decisions, and validation of what I build.
 
-- 🌱 Currently learning:
-  - Web development.
-  - Competitive programming.
-  - Software architecture.
-- 🧩 I enjoy designing structured, maintainable and well-documented systems.
-- 🎓 I maintain progressive academic repositories with exercises, solved problems and support material for classmates and students.
-- 🥋 Outside technology, I practice MMA and other martial arts.
-- 🎸 I play guitar, mainly rock and metal.
-- 🌍 Languages: native Spanish | intermediate English.
-- 🤝 Open to collaborating on university projects, software development and engineering-oriented projects.
-
-<br clear="right"/>
-
-## University teaching experience
-
-| Course | Experience | Current status |
-|---|---:|:---:|
-| Programming | Two regular academic terms and one summer term | Previous |
-| Object-Oriented Programming | One summer term | Previous |
-| Statistics | One regular academic term | Previous |
-| Data Structures | One regular academic term | Current |
-
-My academic repositories are organized as a progressive learning path. Their **level labels are intentional** and distinguish the conceptual depth of each course, from structured programming to software architecture and patterns.
-
-## Skills
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
-</p>
-
-### Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel">
-</p>
-
-### Architecture and documentation
-
-<p>
-  <img src="https://img.shields.io/badge/C4%20Model-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="C4 Model">
-  <img src="https://img.shields.io/badge/Structurizr%20DSL-1168BD?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Structurizr DSL">
-  <img src="https://img.shields.io/badge/PlantUML-F6A800?style=for-the-badge" alt="PlantUML">
-  <img src="https://img.shields.io/badge/Doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white" alt="Doxygen">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge" alt="Word">
-</p>
-
-### Methodologies
-
-<p>
-  <img src="https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=trello&logoColor=white" alt="SCRUM">
-  <img src="https://img.shields.io/badge/CRISP--DM-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" alt="CRISP-DM">
-</p>
+My previous university teaching-assistant roles and hands-on field experience have reinforced a principle I value: technology needs to work not only in code, but also in the real context of its users.
 
 ## Featured projects
 
+A selection of projects showcasing different areas of my work. Status labels reflect current maturity rather than promises of future functionality.
+
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/NicoCG32/Squid-Ink-Pulse-Public-Version">
-        <img src="imagenes/LogoSIP.png" alt="logo of Squid Ink Pulse" width="250">
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/NicoCG32/Espejo-Homologa">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoCG32/Espejo-Homologa/main/branding/banners/espejo-banner-oscuro.svg">
+          <img src="https://raw.githubusercontent.com/NicoCG32/Espejo-Homologa/main/branding/banners/espejo-banner-claro.svg" alt="Espejo · Homologa — banner" width="100%">
+        </picture>
       </a>
-      <h3>Squid Ink Pulse</h3>
+      <h3><a href="https://github.com/NicoCG32/Espejo-Homologa">Espejo · Homologa</a></h3>
+      <p><sub><strong>Status:</strong> Pilot</sub></p>
+      <p align="left">A role-matching pilot based on job content and responsibilities. Combines deterministic criteria, AI-assisted semantic analysis, and professional review; compensation does not determine similarity. Built through interdisciplinary collaboration.</p>
+      <p><code>React</code> · <code>TypeScript</code> · <code>IA / AI</code></p>
       <p>
-        <img src="https://img.shields.io/badge/Public%20repository-Available-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Public repository available">
-      </p>
-      <p><strong>SCRUM Master and lead programmer</strong></p>
-      <p>
-        2D single-player endless runner developed in Unity and C#. The player controls a baby squid trying to survive in a hostile underwater environment while chasing its mother.
-      </p>
-      <p>
-        Its central mechanic, <strong>Ink-Pulse</strong>, is a risk-reward dash system charged by staying close to danger. My work included gameplay programming, mechanic implementation, sprint organization and technical decision-making.
-      </p>
-      <p>
-        <a href="https://github.com/NicoCG32/Squid-Ink-Pulse-Public-Version">
-          <img src="https://img.shields.io/badge/View%20public%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View public repository">
-        </a>
+        <a href="https://github.com/NicoCG32/Espejo-Homologa">Repository</a> · <a href="https://github.com/NicoCG32/Espejo-Homologa/docs/README.md">Documentation</a>
       </p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/NicoCG32/Bodega-PaMaRa">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoCG32/Bodega-PaMaRa/main/branding/banners/PaMaRa_AyN_banner_oscuro.png">
+          <img src="https://raw.githubusercontent.com/NicoCG32/Bodega-PaMaRa/main/branding/banners/PaMaRa_AyN_banner_claro.png" alt="PaMaRa Bodega — banner" width="100%">
+        </picture>
+      </a>
+      <h3><a href="https://github.com/NicoCG32/Bodega-PaMaRa">PaMaRa Bodega</a></h3>
+      <p><sub><strong>Status:</strong> Working web app · Android beta</sub></p>
+      <p align="left">A tool for a family business covering inventory, orders, payment tracking, and a customer catalog. Separates private administration from public browsing and prioritizes straightforward mobile workflows.</p>
+      <p><code>React</code> · <code>TypeScript</code> · <code>Supabase</code></p>
+      <p>
+        <a href="https://github.com/NicoCG32/Bodega-PaMaRa">Repository</a> · <a href="https://github.com/NicoCG32/Bodega-PaMaRa/docs/README.md">Documentation</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/NicoCG32/Auditorium">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoCG32/Auditorium/main/branding/banners/auditorium-banner-oscuro.png">
+          <img src="https://raw.githubusercontent.com/NicoCG32/Auditorium/main/branding/banners/auditorium-banner-claro.png" alt="Auditorium — banner" width="100%">
+        </picture>
+      </a>
+      <h3><a href="https://github.com/NicoCG32/Auditorium">Auditorium</a></h3>
+      <p><sub><strong>Status:</strong> Web/PWA 1.1.0</sub></p>
+      <p align="left">A digital music library for albums, editions, tracks, listening history, and collections. Distinguishes musical works from releases and personal experiences; uses local data, backups, and optional metadata synchronization.</p>
+      <p><code>PWA</code> · <code>IndexedDB</code> · <code>TypeScript</code></p>
+      <p>
+        <a href="https://github.com/NicoCG32/Auditorium">Repository</a> · <a href="https://github.com/NicoCG32/Auditorium/docs/README.md">Documentation</a> · <a href="https://nicocg32.github.io/Auditorium/">Try demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/NicoCG32/HereToPlan">
-        <img src="imagenes/LogoHereToPlan.png" alt="logo of HereToPlan" width="150">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoCG32/HereToPlan/main/branding/banners/heretoplan-banner-oscuro.webp">
+          <img src="https://raw.githubusercontent.com/NicoCG32/HereToPlan/main/branding/banners/heretoplan-banner-claro.webp" alt="HereToPlan — banner" width="100%">
+        </picture>
       </a>
-      <h3>HereToPlan</h3>
-      <p><strong>Personal planning web application</strong></p>
+      <h3><a href="https://github.com/NicoCG32/HereToPlan">HereToPlan</a></h3>
+      <p><sub><strong>Status:</strong> In validation</sub></p>
+      <p align="left">A personal planning app to define activities, commitments, outcomes, and their history. Uses hexagonal architecture, domain rules, local persistence, and automated testing.</p>
+      <p><code>React</code> · <code>TypeScript</code> · <code>Vitest</code></p>
       <p>
-        Planning system focused on explicit commitments, traceability and controlled flexibility. Developed with React, TypeScript, Vite and Vitest using hexagonal architecture, domain rules, IndexedDB persistence, automated quality checks and continuous deployment to GitHub Pages.
-      </p>
-      <p>
-        <a href="https://github.com/NicoCG32/HereToPlan">
-          <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
-        </a>
-        <a href="https://nicocg32.github.io/HereToPlan/">
-          <img src="https://img.shields.io/badge/Open%20web%20application-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open web application">
-        </a>
+        <a href="https://github.com/NicoCG32/HereToPlan">Repository</a> · <a href="https://github.com/NicoCG32/HereToPlan/docs/README.md">Documentation</a> · <a href="https://nicocg32.github.io/HereToPlan/">Try demo</a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/NicoCG32/Cumpita">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoCG32/Cumpita/main/branding/banners/cumpita-banner-oscuro.svg">
+          <img src="https://raw.githubusercontent.com/NicoCG32/Cumpita/main/branding/banners/cumpita-banner-claro.svg" alt="Cumpita — banner" width="100%">
+        </picture>
+      </a>
+      <h3><a href="https://github.com/NicoCG32/Cumpita">Cumpita</a></h3>
+      <p><sub><strong>Status:</strong> Web pilot</sub></p>
+      <p align="left">A PWA to find nearby stores, browse schedules, and read recent community reports. Combines published information and user observations without claiming that opening status is guaranteed.</p>
+      <p><code>PWA</code> · <code>React</code> · <code>Mapas / Maps</code></p>
+      <p>
+        <a href="https://github.com/NicoCG32/Cumpita">Repository</a> · <a href="https://github.com/NicoCG32/Cumpita/docs/README.md">Documentation</a> · <a href="https://cumpita.lovable.app">Try demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/NicoCG32/HexaTour">
-        <img src="imagenes/LogoHexaTour.png" alt="logo of HexaTour" width="150">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoCG32/HexaTour/main/branding/banners/hexatour-banner-oscuro.webp">
+          <img src="https://raw.githubusercontent.com/NicoCG32/HexaTour/main/branding/banners/hexatour-banner-claro.webp" alt="HexaTour — banner" width="100%">
+        </picture>
       </a>
-      <h3>HexaTour</h3>
+      <h3><a href="https://github.com/NicoCG32/HexaTour">HexaTour</a></h3>
+      <p><sub><strong>Status:</strong> Academic prototype</sub></p>
+      <p align="left">An offline tourist-information academic prototype combining ESP32-S3, Arduino, a local portal, and thermal printing. Includes firmware, a simulator, and a demo; the integrated hardware still needs further validation.</p>
+      <p><code>ESP32-S3</code> · <code>Arduino</code> · <code>Offline</code></p>
       <p>
-        Offline tourism orientation module using ESP32-S3, Arduino UNO, a captive portal and thermal printing. The project combines embedded systems, local web interaction and physical information delivery for environments with limited connectivity.
-      </p>
-      <p>
-        <a href="https://github.com/NicoCG32/HexaTour">
-          <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/NicoCG32/Estacion-Meteorologica">
-        <img src="imagenes/LogoEstMeteo.png" alt="logo of Weather and air quality station" width="260">
-      </a>
-      <h3>Weather and air quality station</h3>
-      <p><em>Working title</em></p>
-      <p>
-        Low-cost weather and air quality station using ESP32-S3, environmental sensors, a Node.js backend and structured technical documentation. It integrates embedded data acquisition with a software layer for processing and presenting measurements.
-      </p>
-      <p>
-        <a href="https://github.com/NicoCG32/Estacion-Meteorologica">
-          <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
-        </a>
+        <a href="https://github.com/NicoCG32/HexaTour">Repository</a> · <a href="https://github.com/NicoCG32/HexaTour/docs/README.md">Documentation</a> · <a href="https://nicocg32.github.io/HexaTour/">Try demo</a>
       </p>
     </td>
   </tr>
 </table>
 
-## Academic and teaching repositories
+## Technical skills
 
-These repositories are maintained as academic support material for classmates and students. They include exercises, solved problems, teaching notes, course-oriented examples and explanations written from a practical student perspective. Their order and level labels represent a deliberate progression in programming and software design.
+Tools and approaches used in my projects. This list does not imply certifications or particular proficiency levels.
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/NicoCG32/Programacion-UCN">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Programacion-UCN&theme=tokyonight&hide_border=false&locale=en" alt="Repository card: Programming">
-      </a>
-      <h3>Programming</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Level%200-Structured%20programming-808080?style=for-the-badge" alt="Level 0: Structured programming">
-      </p>
-      <p>
-        Introductory programming material in Python, focused on structured programming, conditionals, loops, files, functions, lists and matrices.
-      </p>
-      <p>
-        <a href="https://github.com/NicoCG32/Programacion-UCN">
-          <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/NicoCG32/Programacion-Orientada-a-Objetos-UCN">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Programacion-Orientada-a-Objetos-UCN&theme=tokyonight&hide_border=false&locale=en" alt="Repository card: Object-Oriented Programming">
-      </a>
-      <h3>Object-Oriented Programming</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Level%201-OOP%20modeling-1E90FF?style=for-the-badge" alt="Level 1: OOP modeling">
-      </p>
-      <p>
-        Java and Eclipse material for object-oriented modeling, classes, objects, relationships, interfaces, Swing, layered design and introductory patterns.
-      </p>
-      <p>
-        <a href="https://github.com/NicoCG32/Programacion-Orientada-a-Objetos-UCN">
-          <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/NicoCG32/Tecnicas-y-Metodologias-de-Programacion-Avanzada-UCN">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Tecnicas-y-Metodologias-de-Programacion-Avanzada-UCN&theme=tokyonight&hide_border=false&locale=en" alt="Repository card: Advanced Programming Techniques and Methodologies">
-      </a>
-      <h3>Advanced Programming Techniques and Methodologies</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Level%201-Algorithmic%20techniques-1E90FF?style=for-the-badge" alt="Level 1: Algorithmic techniques">
-      </p>
-      <p>
-        Java-oriented and pseudocode-friendly material on recursion, divide and conquer, trees, backtracking, algorithmic reasoning and concurrency.
-      </p>
-      <p>
-        <a href="https://github.com/NicoCG32/Tecnicas-y-Metodologias-de-Programacion-Avanzada-UCN">
-          <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/NicoCG32/Estructura-de-Datos-UCN">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Estructura-de-Datos-UCN&theme=tokyonight&hide_border=false&locale=en" alt="Repository card: Data Structures">
-      </a>
-      <h3>Data Structures</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Level%202-Data%20structures-2E8B57?style=for-the-badge" alt="Level 2: Data structures">
-      </p>
-      <p>
-        C++ teaching assistant material on linked lists, stacks, queues, trees, AVL trees, heaps, graphs, compendiums, exercises and solved practice.
-      </p>
-      <p>
-        <a href="https://github.com/NicoCG32/Estructura-de-Datos-UCN">
-          <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <a href="https://github.com/NicoCG32/Patrones-de-Software-y-Programacion-UCN">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicoCG32&repo=Patrones-de-Software-y-Programacion-UCN&theme=tokyonight&hide_border=false&locale=en" alt="Repository card: Software Patterns and Programming">
-      </a>
-      <h3>Software Patterns and Programming</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Level%203-Architecture%20and%20patterns-800080?style=for-the-badge" alt="Level 3: Architecture and patterns">
-      </p>
-      <p>
-        Java and IntelliJ material on GoF patterns, architectural patterns, testing, JUnit, Mockito, ArchUnit, Vert.x and maintainable design.
-      </p>
-      <p>
-        <a href="https://github.com/NicoCG32/Patrones-de-Software-y-Programacion-UCN">
-          <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+**Languages**
 
-## GitHub statistics
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/JavaScript-A58C13?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white" alt="SQL"></p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=NicoCG32&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&locale=en" alt="GitHub statistics">
-</p>
+**Web development and data**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NicoCG32&theme=tokyonight&hide_border=false&locale=en" alt="GitHub contribution streak">
-</p>
+<p><img src="https://img.shields.io/badge/React-24618A?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/Supabase-3D8F70?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/IndexedDB-547A91?style=flat-square&logoColor=white" alt="IndexedDB"> <img src="https://img.shields.io/badge/Vitest-60862D?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"></p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NicoCG32&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&locale=en&custom_title=Most%20used%20languages" alt="Most used languages">
-</p>
+**Systems and tools**
 
----
+<p><img src="https://img.shields.io/badge/ESP32-B42B2B?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/Unity-454545?style=flat-square&logo=unity&logoColor=white" alt="Unity"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></p>
 
-<p align="center">
-  <strong>Visitor count</strong><br>
-  <img src="https://profile-counter.deno.dev/NicoCG32/count.svg" alt="Visitor count">
-</p>
+**Software engineering**
+
+Hexagonal architecture · domain modeling · business-rule design · automated testing · technical documentation · Git/GitHub
+
+## Technical and academic experience
+
+### University teaching assistant roles · Universidad Católica del Norte
+
+**Previous experience** preparing learning materials, explaining concepts, and supporting students as they solve programming exercises and problems.
+
+| Course | Terms |
+|:--|:--|
+| Programming | 2025-I · 2025-II · Summer 2026 |
+| Object-Oriented Programming | Summer 2026 |
+| Statistics | 2026-I |
+| Data Structures | 2026-I |
+
+All teaching-assistant positions listed are **past roles**. **Data Structures was held for one term only: 2026-I.**
+
+### Inmomaq · Technical field support (2026)
+
+Practical experience preparing materials, assembling and dismantling construction lifting equipment, working at height, and assisting with operational tests. This complements my software background with insights into maintenance, equipment traceability, and troubleshooting in physical environments.
+
+## Academic repositories
+
+Study and teaching resources arranged as a conceptual learning progression. Levels describe the material's depth; they are **not** professional certifications.
+
+| Level | Area | Focus |
+|:--:|:--|:--|
+| **0** | [Programming](https://github.com/NicoCG32/Programacion-UCN) | Fundamentals, control flow, and functions |
+| **1** | [Object-Oriented Programming](https://github.com/NicoCG32/Programacion-Orientada-a-Objetos-UCN) | Classes, objects, and object-oriented design |
+| **1** | [Advanced Programming Techniques and Methodologies](https://github.com/NicoCG32/Tecnicas-y-Metodologias-de-Programacion-Avanzada-UCN) | Recursion and algorithmic strategies |
+| **2** | [Data Structures](https://github.com/NicoCG32/Estructura-de-Datos-UCN) | Lists, trees, heaps, and graphs |
+| **3** | [Software Design Patterns and Programming](https://github.com/NicoCG32/Patrones-de-Software-y-Programacion-UCN) | Patterns, architecture, and testing |
+
+## Other developments
+
+- **[Squid Ink-Pulse](https://github.com/NicoCG32/Squid-Ink-Pulse-Public-Version):** A team-developed 2D video game built with Unity and C#. I contributed to programming and Scrum-based coordination. The public repository distributes builds and documentation, **not** the original Unity source project.
+- **[Estación Meteorológica](https://github.com/NicoCG32/Estacion-Meteorologica):** An environmental sensor prototype using ESP32-S3, a local server, and a data dashboard. I worked on the academic hardware and firmware and later extended its software components.
+
+## GitHub activity
+
+My public repositories, contributions, and activity are available directly on [my GitHub profile](https://github.com/NicoCG32). I prefer GitHub's own metrics over unreliable third-party visitor counters or generated statistics images.
+
+## Beyond the code
+
+I enjoy music—especially rock and metal—play guitar, and practice martial arts. I'm also drawn to projects that combine creativity, software, and real-world challenges.
